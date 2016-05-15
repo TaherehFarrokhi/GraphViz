@@ -13,6 +13,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphViz.Data", "GraphViz.D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphViz.Core.Tests", "GraphViz.Core.Tests\GraphViz.Core.Tests.csproj", "{A802616D-0F43-4722-9207-105BECB571C2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D62C85FE-C1D6-4755-A844-4313B0B788EC}"
+	ProjectSection(SolutionItems) = preProject
+		GraphViz.Database\Database.dacpac = GraphViz.Database\Database.dacpac
+		GraphViz.Database\Database.sql = GraphViz.Database\Database.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

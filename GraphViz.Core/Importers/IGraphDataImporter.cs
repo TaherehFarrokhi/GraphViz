@@ -1,4 +1,6 @@
-﻿namespace GraphViz.Core.Importers
+﻿using GraphViz.Core.Domain;
+
+namespace GraphViz.Core.Importers
 {
     public interface IGraphDataImporter
     {

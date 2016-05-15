@@ -17,5 +17,10 @@ namespace GraphViz.Web.Controllers.Api
         {
             return _repository.LoadGraph();
         }
+
+        public void Post([FromBody] Graph graph)
+        {
+            _repository.SaveGraph(graph);
+        }
     }
 }
