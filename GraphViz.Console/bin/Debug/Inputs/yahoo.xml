@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<node>
-	<id>8</id>
-	<label>Yahoo</label>
-	<adjacentNodes>
-		<id>9</id>
-	</adjacentNodes>
-</node>

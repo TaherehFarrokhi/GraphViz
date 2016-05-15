@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<node1>
-	<id>9</id>
-	<label>Amazon</label>
-	<adjacentNodes>
-		<id>10</id>
-	</adjacentNodes>
-</node1>  
