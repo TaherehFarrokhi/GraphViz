@@ -55,8 +55,8 @@
   </Choose>
   <ItemGroup>
     <Compile Include="GraphDataImporterTests.cs" />
-    <Compile Include="XmlGraphFileParserTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="XmlGraphFileParserTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
