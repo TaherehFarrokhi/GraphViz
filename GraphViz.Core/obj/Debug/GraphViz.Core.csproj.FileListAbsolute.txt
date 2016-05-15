@@ -1,0 +1,5 @@
+C:\_git.tahereh\GraphViz\GraphViz.Core\bin\Debug\GraphViz.Core.dll
+C:\_git.tahereh\GraphViz\GraphViz.Core\bin\Debug\GraphViz.Core.pdb
+C:\_git.tahereh\GraphViz\GraphViz.Core\obj\Debug\GraphViz.Core.csprojResolveAssemblyReference.cache
+C:\_git.tahereh\GraphViz\GraphViz.Core\obj\Debug\GraphViz.Core.dll
+C:\_git.tahereh\GraphViz\GraphViz.Core\obj\Debug\GraphViz.Core.pdb
