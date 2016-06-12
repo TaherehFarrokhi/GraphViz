@@ -22,7 +22,7 @@ To execute the application web application needs to be started first and then st
 
 ## Extension Points
 
-1. Distance Calculation: It can be done by tree traverse search algorithm. It can be calculated on the fly and cache on demand or calculate all up front whcih make the searc extreemly faster. (I could finish the search in that time)
+1. Distance Calculation: It can be done by tree traverse search algorithm. It can be calculated on the fly and cache on demand or calculate all up front which make the search extremly faster. (I could finish the search in that time)
 2. Moving the extraction part to web api service rather than the console application.
 
 
